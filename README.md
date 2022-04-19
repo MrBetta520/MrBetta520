@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yang.
-- 👀 I’m interested in Software Development, Machine Learning, Artificial Intelligence, etc.
+- 👀 I’m interested in Software Development, Cloud Computing, Machine Learning, Artificial Intelligence, etc.
 - 🌱 I’m currently learning C#, Azure.
 - 📫 How to reach me: linkedin.com/in/yangyu520
 
